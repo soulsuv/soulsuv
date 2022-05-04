@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @soulsuv
+- 👀 I’m interested in Data Analysis, Statistics and Machine learning
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate, say hello on twitter @soulsuv
