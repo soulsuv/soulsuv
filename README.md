@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Solomon Okoro @soulsuv
-- 👀 I’m interested in Data Analysis, Visualization, and Data Science.
+- 👀 I’m interested in Data Analysis, Data Science, and Reservoir Engineering.
 - LinkedIn on: https://www.linkedin.com/in/solomon-uvere-okoro
 - I’m looking to collaborate, feel free to reach out.
